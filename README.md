@@ -4,7 +4,7 @@
 ## **1. 프로젝트 개요**
 - **프로젝트명** :
 - **팀명** :
-- **팀번호** : `예: 25_HC001`
+- **팀번호** : `예: 25_HC001, 25_HS001, 25_HF001`
 - **한줄 소개** : 프로젝트의 핵심 목표를 간단히 작성
 
 ---
@@ -12,14 +12,14 @@
 ## **2. 레포지토리 생성 및 제출 방법**
 ### **가. 레포지토리 생성**
 1. [GitHub](https://github.com) 접속 → **New Repository** 클릭
+   <img width="1462" height="1492" alt="image" src="https://github.com/user-attachments/assets/78917db1-ff98-48c5-8c68-59f4ba50fbc8" />
+
 2. **Repository 이름**은 팀번호 규칙을 준수  
    예: `25_HC001`
-3. Public 또는 Private 여부는 자유롭게 설정
+3. 공개설정은 Public으로 설정, ADD README 선택
 
 ### **나. 레포지토리 링크 제출**
-- 공모전 2차 신청 시 생성한 GitHub 링크 제출  
-  예:  
-
+- 한이음 드림업 홈페이지 공모전 2차 신청 시 위에서 생성한 GitHub 링크 제출해주세요.
 
 
 ---
@@ -39,7 +39,8 @@
 
 ## **4. 프로젝트 상세 내용**
 ### **가. 시스템 구성도**
-<img width="600" alt="구성도" src="이미지링크">
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/31f4b0e4-31bb-48a7-94e9-bf614bf49108" />
+
 
 ### **나. 주요 기능**
 - 실시간 데이터 수집 및 분석
