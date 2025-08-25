@@ -59,7 +59,7 @@
 ---
 
 ## **5. 시연 영상**(썸네일 등록 및 링크 연결)
-[<img src="[https://img.youtube.com/vi/YcD3Lbn2FRI/0.jpg](https://github.com/user-attachments/assets/e8b5b82f-5498-4b3b-9c26-e330c95ef79f)" width="600"/>](https://youtu.be/YcD3Lbn2FRI)
+[<img src="https://github.com/user-attachments/assets/0f6416a0-847f-4d98-b67c-4e8081656234" idth="600" height="300"/>](https://youtu.be/YcD3Lbn2FRI?si=eWUIBmONdGXoUAfu)
 
 
 ---
