@@ -58,7 +58,8 @@
 ---
 
 ## **5. 시연 영상**(썸네일 등록 및 링크 연결)
-[<img src="https://img.youtube.com/vi/YcD3Lbn2FRI/0.jpg" width="600"/>]([https://youtu.be/YcD3Lbn2FRI](https://youtu.be/YcD3Lbn2FRI?si=BBbxjk6JMKZHtR6n)
+[<img src="https://img.youtube.com/vi/YcD3Lbn2FRI/0.jpg" width="600"/>](https://youtu.be/YcD3Lbn2FRI)
+
 
 ---
 
