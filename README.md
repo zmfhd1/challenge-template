@@ -12,7 +12,7 @@
 ## **2. 레포지토리 생성 및 제출 방법**
 ### **가. 레포지토리 생성**
 1. [GitHub](https://github.com) 접속 → **New Repository** 클릭
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/78917db1-ff98-48c5-8c68-59f4ba50fbc8" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/78917db1-ff98-48c5-8c68-59f4ba50fbc8" />
 
 2. **Repository 이름**은 팀번호 규칙을 준수  
    예: `25_HC001`
@@ -58,7 +58,7 @@
 
 ---
 
-## **5. 시연 영상**(썸네일 등록 및 링크 연결)
+## **5. 시연 영상**(유튜브 영상 썸네일 및 링크)
 [<img src="https://github.com/user-attachments/assets/0f6416a0-847f-4d98-b67c-4e8081656234" idth="600" height="300"/>](https://youtu.be/YcD3Lbn2FRI?si=eWUIBmONdGXoUAfu)
 
 
