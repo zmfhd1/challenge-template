@@ -39,7 +39,7 @@
 
 ## **4. 프로젝트 상세 내용**
 ### **가. 시스템 구성도**
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/975fb534-bfc0-44f0-80de-461ca67811a7" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/975fb534-bfc0-44f0-80de-461ca67811a7" />
 
 
 
