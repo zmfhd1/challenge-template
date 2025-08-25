@@ -55,6 +55,9 @@
 ---
 
 ## **5. 시연 영상**(유튜브 영상 썸네일 및 링크)
+[![영상 이름](유튜브 영상 썸네일 URL)](유투브 영상 URL)
+[![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLq  
+
 [<img src="https://github.com/user-attachments/assets/0f6416a0-847f-4d98-b67c-4e8081656234" width="500" height="400"/>](https://youtu.be/YcD3Lbn2FRI?si=eWUIBmONdGXoUAfu)
 
 
