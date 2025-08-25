@@ -39,7 +39,8 @@
 
 ## **4. 프로젝트 상세 내용**
 ### **가. 시스템 구성도**
-<img width="600" height="300" alt="image" src="[https://github.com/user-attachments/assets/31f4b0e4-31bb-48a7-94e9-bf614bf49108" /> (https://github.com/user-attachments/assets/4986e98b-4d8e-4f7b-96db-fb83f3b61c40)
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/975fb534-bfc0-44f0-80de-461ca67811a7" />
+
 
 
 ### **나. 주요 기능**
@@ -58,7 +59,7 @@
 ---
 
 ## **5. 시연 영상**(썸네일 등록 및 링크 연결)
-[<img src="https://img.youtube.com/vi/YcD3Lbn2FRI/0.jpg" width="600"/>](https://youtu.be/YcD3Lbn2FRI)
+[<img src="[https://img.youtube.com/vi/YcD3Lbn2FRI/0.jpg](https://github.com/user-attachments/assets/e8b5b82f-5498-4b3b-9c26-e330c95ef79f)" width="600"/>](https://youtu.be/YcD3Lbn2FRI)
 
 
 ---
