@@ -57,11 +57,8 @@
 
 ---
 
-## **5. 시연 영상**
-- 썸네일  
-<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/c748fbd4-8a1f-4ad4-95e3-ab08c1333f7a" />
-
-- [▶ YouTube 시연 영상]([https://youtu.be/예시링크](https://youtu.be/YcD3Lbn2FRI?si=BBbxjk6JMKZHtR6n))
+## **5. 시연 영상**(썸네일 등록 및 링크 연결)
+[img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/c748fbd4-8a1f-4ad4-95e3-ab08c1333f7a"](https://youtu.be/YcD3Lbn2FRI?si=BBbxjk6JMKZHtR6n)
 
 ---
 
