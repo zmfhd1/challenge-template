@@ -6,7 +6,7 @@
    가. GitHub(https://github.com)에 접속하여 새로운 Repository를 생성합니다.
    나. Repository 이름은 다음 규칙을 따르세요.
      * 작성방법 : 홈페이지 팀 오피스 상단에 기재되어 있는 팀 번호(예 : 25_HC001, 25_HS001, 25_HF001)
-     <img width="1471" height="1500" alt="image" src="https://github.com/user-attachments/assets/2a62801f-bfc4-4913-80f9-a8c6829621c3" />
+     <img width="735" height="750" alt="image" src="https://github.com/user-attachments/assets/2a62801f-bfc4-4913-80f9-a8c6829621c3" />
      
 2. 레포지토리 링크 제출
    가. 한이음 드림업 홈페이지에서 공모전 2차 신청 시, 위에서 생성한 레포지토리 링크를 제출합니다.
