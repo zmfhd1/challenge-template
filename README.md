@@ -49,12 +49,8 @@
 - 서비스 대시보드 구축
 
 ### **다. 개발 환경**
-| 항목         | 내용                 |
-|--------------|----------------------|
-| Language     | Python 3.10, JS ES6 |
-| Framework    | Django, React       |
-| DB          | MySQL               |
-| Infra       | AWS EC2, S3         |
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c1f41c62-68eb-4ad9-8a93-087033b242db" />
+
 
 ---
 
