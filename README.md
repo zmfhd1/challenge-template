@@ -53,6 +53,19 @@
 
 
 ---
+### 5.8. 유튜브 영상 추가 방법
+
+다음 예시를 참고해 시연 영상 썸네일을 클릭 시 유튜브 영상으로 이동하도록 설정하세요.
+
+```markdown
+[![영상 제목](유튜브 썸네일 URL)](유튜브 영상 URL)
+
+예시:
+[![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLq/0.jpg)](https://www.youtube.com/watch?v=zh_gQ_lmLq)
+---
+
+
+
 
 ## **5. 시연 영상**(유튜브 영상 썸네일 및 링크)
 ```markdown
