@@ -1,4 +1,4 @@
-<img width="646" height="391" alt="image" src="https://github.com/user-attachments/assets/b2abc855-35de-4759-8473-e26651bc65a7" /><img width="1863" height="1789" alt="image" src="https://github.com/user-attachments/assets/6a954ad2-8169-4aa3-bf79-70fef31b7104" /># Hanium DreamUP-challenge-template
+### Hanium DreamUP-challenge-template
 이 레파지토리는 한이음 드림업 프로젝트 결과물을 위한 레파지토리 생성시에 참고할 내용을 담고 있습니다.
 
 
