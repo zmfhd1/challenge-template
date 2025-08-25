@@ -55,7 +55,7 @@
 ---
 
 ## **5. 시연 영상**(유튜브 영상 썸네일 및 링크)
-[<img src="https://github.com/user-attachments/assets/0f6416a0-847f-4d98-b67c-4e8081656234" idth="600" height="300"/>](https://youtu.be/YcD3Lbn2FRI?si=eWUIBmONdGXoUAfu)
+[<img src="https://github.com/user-attachments/assets/0f6416a0-847f-4d98-b67c-4e8081656234" width="500" height="400"/>](https://youtu.be/YcD3Lbn2FRI?si=eWUIBmONdGXoUAfu)
 
 
 ---
